@@ -1,0 +1,15 @@
+
+
+@font-face {
+font-family: 'Vicious Hunger Regular';
+font-style: normal;
+/*font-weight: normal;*/
+src: local('Vicious Hunger Regular'), url('ViciousHunger-nBW1.woff') format('woff');
+}
+
+h1{
+	font-family: 'Vicious Hunger Regular';
+	font-weight: 500;
+	color: white;
+	letter-spacing: 0.1em
+}
