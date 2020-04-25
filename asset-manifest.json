@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Monster-Friends/static/css/main.64f8b4a8.chunk.css",
+    "main.js": "/Monster-Friends/static/js/main.cbdeb326.chunk.js",
+    "main.js.map": "/Monster-Friends/static/js/main.cbdeb326.chunk.js.map",
+    "runtime-main.js": "/Monster-Friends/static/js/runtime-main.87c07bf6.js",
+    "runtime-main.js.map": "/Monster-Friends/static/js/runtime-main.87c07bf6.js.map",
+    "static/css/2.66b7f74f.chunk.css": "/Monster-Friends/static/css/2.66b7f74f.chunk.css",
+    "static/js/2.2f7a48c9.chunk.js": "/Monster-Friends/static/js/2.2f7a48c9.chunk.js",
+    "static/js/2.2f7a48c9.chunk.js.map": "/Monster-Friends/static/js/2.2f7a48c9.chunk.js.map",
+    "index.html": "/Monster-Friends/index.html",
+    "precache-manifest.a9ac313f05d1c9feefae65fa694fbd83.js": "/Monster-Friends/precache-manifest.a9ac313f05d1c9feefae65fa694fbd83.js",
+    "service-worker.js": "/Monster-Friends/service-worker.js",
+    "static/css/2.66b7f74f.chunk.css.map": "/Monster-Friends/static/css/2.66b7f74f.chunk.css.map",
+    "static/css/main.64f8b4a8.chunk.css.map": "/Monster-Friends/static/css/main.64f8b4a8.chunk.css.map",
+    "static/js/2.2f7a48c9.chunk.js.LICENSE.txt": "/Monster-Friends/static/js/2.2f7a48c9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Monster-Friends/static/media/ViciousHunger-nBW1.2b6cc40c.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87c07bf6.js",
+    "static/css/2.66b7f74f.chunk.css",
+    "static/js/2.2f7a48c9.chunk.js",
+    "static/css/main.64f8b4a8.chunk.css",
+    "static/js/main.cbdeb326.chunk.js"
+  ]
+}
